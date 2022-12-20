@@ -5,3 +5,4 @@ git tracks changes of files.
 git remote github test.
 create a new branch is quick AND simple.
 git no fast forward.
+stash test.
